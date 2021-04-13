@@ -16,10 +16,10 @@ function App() {
                 <a href = "/"><h1>Suhan Gui</h1></a>
               </div>
               <ul class = "nav">
+                <a><li>Resume</li></a>
                 <a><li>About</li></a>
                 <a><li>Education</li></a>
                 <a><li>Portfolio</li></a>
-                <a><li>Skills</li></a>
                 <a><li>Contact</li></a>
               </ul>
             </div>

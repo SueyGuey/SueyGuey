@@ -63,5 +63,29 @@ a {
 }
 
 .home {
-  text-align: center;
+  align-self: center;
+  height: 100%;
+  margin-right: 16%;
+  margin-left: 16%;
+  margin-top: 20px;
+}
+
+.profile {
+  float: left;
+  text-align: right;
+}
+
+.profile img {
+  border-radius: 8px;
+  height: 500px;
+}
+
+.desc {
+  margin-left: 50%;
+}
+
+.desc h1 {
+  text-decoration: underline;
+  font-size: 40px;
+  margin-bottom: 5px;
 }
