@@ -18,26 +18,26 @@ function App() {
           <div class = "header">
             <div class = "inside_header">
               <div class = "name">
-                <a href = "/"><h1>Suhan Gui</h1></a>
+                <a href = "/PersonalWebsite/"><h1>Suhan Gui</h1></a>
               </div>
               <ul class = "nav">
-                <a href = "/resume"><li>Resume</li></a>
-                <a href = "/about"><li>About</li></a>
-                <a href = "/education"><li>Education</li></a>
-                <a href = "/portfolio"><li>Portfolio</li></a>
-                <a href = "/contact"><li>Contact</li></a>
+                <a href = "/PersonalWebsite/resume"><li>Resume</li></a>
+                <a href = "/PersonalWebsite/about"><li>About</li></a>
+                <a href = "/PersonalWebsite/education"><li>Education</li></a>
+                <a href = "/PersonalWebsite/portfolio"><li>Portfolio</li></a>
+                <a href = "/PersonalWebsite/contact"><li>Contact</li></a>
               </ul>
             </div>
           </div>
         </body>
       </html>
       <Switch>
-        <Route path = "/" exact component = {Home}/>
-        <Route path = "/resume" exact component = {Resume}/>
-        <Route path = "/about" exact component = {About}/>
-        <Route path = "/education" exact component = {Education}/>
-        <Route path = "/portfolio" exact component = {Portfolio}/>
-        <Route path = "/contact" exact component = {Contact}/>
+        <Route path = "/PersonalWebsite/" exact component = {Home}/>
+        <Route path = "/PersonalWebsite/resume" exact component = {Resume}/>
+        <Route path = "/PersonalWebsite/about" exact component = {About}/>
+        <Route path = "/PersonalWebsite/education" exact component = {Education}/>
+        <Route path = "/PersonalWebsite/portfolio" exact component = {Portfolio}/>
+        <Route path = "/PersonalWebsite/contact" exact component = {Contact}/>
       </Switch>
     </BrowserRouter>
   );
