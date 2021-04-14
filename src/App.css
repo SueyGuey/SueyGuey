@@ -8,7 +8,6 @@
 
 a {
   text-decoration: none;
-  color: white;
 }
 
 .header {
@@ -16,6 +15,10 @@ a {
   height: 80px;
   display: block;
   background-color: #101010;
+}
+
+.header a {
+  color: white;
 }
 
 .inside_header {
@@ -62,7 +65,7 @@ a {
   font-size: 20px;
 }
 
-.home {
+.default {
   align-self: center;
   height: 100%;
   margin-right: 16%;
@@ -88,4 +91,38 @@ a {
   text-decoration: underline;
   font-size: 40px;
   margin-bottom: 5px;
+}
+
+.resume {
+  margin-left: 25%;
+  height: 1295px;
+  width: 1000px;
+}
+
+.big {
+  font-size: 45px;
+  margin-bottom: 10px;
+}
+
+.title {
+  text-decoration: underline;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.underline {
+  text-decoration: underline;
+  margin-bottom: 5px;
+}
+
+.classes {
+  display: flex;
+}
+
+.math {
+  margin-left: 60px;
+}
+
+.default a {
+  color: black;
 }
