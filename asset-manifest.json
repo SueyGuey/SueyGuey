@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SueyGuey/PersonalWebsite/static/css/main.c1d0d5e2.chunk.css",
+    "main.js": "/SueyGuey/PersonalWebsite/static/js/main.ed32fe87.chunk.js",
+    "main.js.map": "/SueyGuey/PersonalWebsite/static/js/main.ed32fe87.chunk.js.map",
+    "runtime-main.js": "/SueyGuey/PersonalWebsite/static/js/runtime-main.b93d1eac.js",
+    "runtime-main.js.map": "/SueyGuey/PersonalWebsite/static/js/runtime-main.b93d1eac.js.map",
+    "static/js/2.8367d87b.chunk.js": "/SueyGuey/PersonalWebsite/static/js/2.8367d87b.chunk.js",
+    "static/js/2.8367d87b.chunk.js.map": "/SueyGuey/PersonalWebsite/static/js/2.8367d87b.chunk.js.map",
+    "static/js/3.52dbf04e.chunk.js": "/SueyGuey/PersonalWebsite/static/js/3.52dbf04e.chunk.js",
+    "static/js/3.52dbf04e.chunk.js.map": "/SueyGuey/PersonalWebsite/static/js/3.52dbf04e.chunk.js.map",
+    "index.html": "/SueyGuey/PersonalWebsite/index.html",
+    "static/css/main.c1d0d5e2.chunk.css.map": "/SueyGuey/PersonalWebsite/static/css/main.c1d0d5e2.chunk.css.map",
+    "static/js/2.8367d87b.chunk.js.LICENSE.txt": "/SueyGuey/PersonalWebsite/static/js/2.8367d87b.chunk.js.LICENSE.txt",
+    "static/media/pic.7361840a.jpg": "/SueyGuey/PersonalWebsite/static/media/pic.7361840a.jpg",
+    "static/media/resume.78fd64e1.pdf": "/SueyGuey/PersonalWebsite/static/media/resume.78fd64e1.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b93d1eac.js",
+    "static/js/2.8367d87b.chunk.js",
+    "static/css/main.c1d0d5e2.chunk.css",
+    "static/js/main.ed32fe87.chunk.js"
+  ]
+}
