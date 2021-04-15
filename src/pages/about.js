@@ -4,9 +4,9 @@ class About extends Component{
     render(){
         return (
             <div class = "default">
-                <h1 class = "big">About me</h1>
-                <h1 class = "title">Professional</h1>
-                <h2>Even from a young age, I have never had a doubt
+                <h2 class = "big">About me</h2>
+                <h2 class = "title">Professional</h2>
+                <h4>Even from a young age, I have never had a doubt
                      about what I path I wanted to pursue. I had always been around
                      computers, whether through video games, watching youtube, or doing
                      classwork. Choosing computer science as my major was a no-brainer for me.
@@ -32,9 +32,9 @@ class About extends Component{
                      I am always motivated and determined to push through any problem. I am not above using the occassional
                      brute force to solve a problem that needs to be solved. I always seek to solve every problem I'm given
                      and try to excel at everything I do and apply myself.
-                </h2>
-                <h1 class = "title">Personal</h1>
-                <h2>I was born in a small town in central China. I spent the first four years of my life living
+                </h4>
+                <h2 class = "title">Personal</h2>
+                <h4>I was born in a small town in central China. I spent the first four years of my life living
                     with my grandparents as my parents were in Singapore finishing their degrees. At age 4, I left
                     China to join my parents in Singapore. I would only spend around 4 years in Singapore but those
                     4 years hold a special place in my heart. I remember the hot
@@ -58,7 +58,7 @@ class About extends Component{
                     either badminton or tennis. Beyond sports, I also like to code and listen to music on my free time. My
                     favorite types of music are City Pop, Kayōkyoku, and enka. My favorite TV shows are Breaking Bad and Better
                     Call Saul and my favorite movie is Parasite.
-                </h2>
+                </h4>
                 <br/>
             </div>
         );
