@@ -16,9 +16,11 @@ class Home extends Component{
                         about working in computer science and have pursued 
                         projects outside of class both working alone and
                         in a group setting. I hope to turn my passion into
-                        a profession eventually. I am very excited to announce
-                        that I will be interning at the Engineering Development Group
-                        for the fall of 2021.</h3>
+                        a profession.</h3>
+                    <br/>
+                    <h3>I am very excited to announce
+                        that I will be a Engineering Development Group Intern
+                        at MathWorks for the fall of 2021.</h3>
                 </div>
             </div>
         );

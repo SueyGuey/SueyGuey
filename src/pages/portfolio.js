@@ -19,7 +19,7 @@ class Portfolio extends Component{
                 <h4>This is a personal project of mine I have been working on since last summer. 
                     It news aggregator web-scraper that pulls foreign affairs news from several external
                      websites. Functionalities include: keyword searching, account creation, and commenting.
-                      Made with Django, BS4, HTML, and CSS</h4>
+                      Made with Django, BS4, HTML, and CSS.</h4>
                 <br/>
                 <h4>Links: <a href ="https://therealpolitik.herokuapp.com">Website (undergoing bug fixes)</a>, 
                 <a href = "https://github.com/SueyGuey/RealPolitik"> Github</a></h4>
