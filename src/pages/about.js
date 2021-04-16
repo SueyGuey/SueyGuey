@@ -51,11 +51,11 @@ class About extends Component{
                     picking up American mannerisms, the American cuisine, and American culture. I would eventually be
                     naturalized as a US citizen in 2019.
                     <br/><br/>
-                    In school, I had always excelled in math. Though I was never the athletic type, I eventually went
+                    Though I was never the athletic type, I eventually went
                     to pick up tennis where I made it to the varsity team. I also enjoyed skiing as well as badminton
                     whenever I visited China during the summers. I suffered a bad knee injury and haven't been able to
-                    play sports but I have gotten surgery and once the coronavirus blows over, I hope to reengage with
-                    either badminton or tennis. Beyond sports, I also like to code and listen to music on my free time. My
+                    play sports but I have gotten surgery and once the coronavirus blows over, I hope to play 
+                    either badminton or casual tennis. Beyond sports, I also like to code and listen to music on my free time. My
                     favorite types of music are City Pop, Kayōkyoku, and enka. My favorite TV shows are Breaking Bad and Better
                     Call Saul and my favorite movie is Parasite.
                 </h4>

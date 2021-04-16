@@ -16,17 +16,17 @@ class Portfolio extends Component{
                 <h4>Links: <a href = "https://github.com/omniaquaecumque/social">Github</a></h4>
                 <br/>
                 <h3 class = "title">RealPolitik</h3>
-                <h3>This is a personal project of mine I have been working on since last summer. 
+                <h4>This is a personal project of mine I have been working on since last summer. 
                     It news aggregator web-scraper that pulls foreign affairs news from several external
                      websites. Functionalities include: keyword searching, account creation, and commenting.
-                      Made with Django, BS4, HTML, and CSS</h3>
+                      Made with Django, BS4, HTML, and CSS</h4>
                 <br/>
                 <h4>Links: <a href ="https://therealpolitik.herokuapp.com">Website (undergoing bug fixes)</a>, 
                 <a href = "https://github.com/SueyGuey/RealPolitik"> Github</a></h4>
 
                 <br/>
                 <h3 class = "title">Skills</h3>
-                <h4>Languages: C++, C, Python, Java</h4>
+                <h4>Languages: C++, C, Python, Java, JavaScript</h4>
                 <h4>Frameworks: Django, React.js, JQuery</h4>
                 <h4>Technologies: Git, Github, HTML, CSS, Eclipse, Xcode</h4>
                 <h4>Other: Fluent in Chinese, Proficient in Spanish</h4>
