@@ -18,26 +18,26 @@ function App() {
           <div class = "header">
             <div class = "inside_header">
               <div class = "name">
-                <a href = {process.env.PUBLIC_URL + '/PersonalWebsite/'}><h1>Suhan Gui</h1></a>
+                <a href = {process.env.PUBLIC_URL + '/'}><h1>BIG CHUNGUS</h1></a>
               </div>
               <ul class = "nav">
-                <a href = {process.env.PUBLIC_URL + '/PersonalWebsite/resume'}><li>Resume</li></a>
-                <a href = {process.env.PUBLIC_URL + '/PersonalWebsite/about'}><li>About</li></a>
-                <a href = {process.env.PUBLIC_URL + '/PersonalWebsite/education'}><li>Education</li></a>
-                <a href = {process.env.PUBLIC_URL + '/PersonalWebsite/portfolio'}><li>Portfolio</li></a>
-                <a href = {process.env.PUBLIC_URL + '/PersonalWebsite/contact'}><li>Contact</li></a>
+                <a href = {process.env.PUBLIC_URL + '/resume'}><li>Resume</li></a>
+                <a href = {process.env.PUBLIC_URL + '/about'}><li>About</li></a>
+                <a href = {process.env.PUBLIC_URL + '/education'}><li>Education</li></a>
+                <a href = {process.env.PUBLIC_URL + '/portfolio'}><li>Portfolio</li></a>
+                <a href = {process.env.PUBLIC_URL + '/contact'}><li>Contact</li></a>
               </ul>
             </div>
           </div>
         </body>
       </html>
       <Switch>
-        <Route path = {process.env.PUBLIC_URL + '/PersonalWebsite/'} exact component = {Home}/>
-        <Route path = {process.env.PUBLIC_URL + '/PersonalWebsite/resume'} exact component = {Resume}/>
-        <Route path = {process.env.PUBLIC_URL + '/PersonalWebsite/about'} exact component = {About}/>
-        <Route path = {process.env.PUBLIC_URL + '/PersonalWebsite/education'} exact component = {Education}/>
-        <Route path = {process.env.PUBLIC_URL + '/PersonalWebsite/portfolio'} exact component = {Portfolio}/>
-        <Route path = {process.env.PUBLIC_URL + '/PersonalWebsite/contact'} exact component = {Contact}/>
+        <Route path = {process.env.PUBLIC_URL + '/'} exact component = {Home}/>
+        <Route path = {process.env.PUBLIC_URL + '/resume'} exact component = {Resume}/>
+        <Route path = {process.env.PUBLIC_URL + '/about'} exact component = {About}/>
+        <Route path = {process.env.PUBLIC_URL + '/education'} exact component = {Education}/>
+        <Route path = {process.env.PUBLIC_URL + '/portfolio'} exact component = {Portfolio}/>
+        <Route path = {process.env.PUBLIC_URL + '/contact'} exact component = {Contact}/>
       </Switch>
     </BrowserRouter>
   );
