@@ -112,6 +112,10 @@ a {
   margin-bottom: 10px;
 }
 
+.default h4 {
+  line-height: 20pt;
+}
+
 .title {
   text-decoration: underline;
   margin-bottom: 10px;

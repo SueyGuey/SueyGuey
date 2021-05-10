@@ -6,58 +6,16 @@ class About extends Component{
             <div class = "default">
                 <h2 class = "big">About me</h2>
                 <h2 class = "title">Professional</h2>
-                <h4>Even from a young age, I have never doubted
-                     about what path I wanted to pursue. I had always been around
-                     computers, whether through video games, watching youtube, or doing
-                     classwork. Choosing computer science as my major was a no-brainer for me.
-                     <br/><br/>
-                     Heading to college, though I know what I wanted to do,
-                     I never really understood what the field entailed. To me, it was about the "what"
-                     the sleek websites or cool games but not so much the "how" of how everything works.
-                     Learning about how data structures work or how to make optimize programs through
-                     algorithms opened my eyes to the depth of the field. I never understood beforehand
-                     how important math was. The foundation of computer science is built on math and
-                     to better my abilities in computer science, I also chose to pursue mathematics as my dual major.
-                     <br/><br/>
-                     Outside college classes, I have also sought to pursue my own personal projects and open source
-                     group projects which you can explore further in the Portfolio section. I always look for opportunities
-                     in which I can apply what I learn and take skills beyond the classroom. I have also pursued
-                     leadership roles throughout my life such as being the member coordinator as well as the interim
-                     secretary for a mandarin club. Having been an Eagle Scout, I have plenty of experience leading
-                     peers to solving real world problems and coordinating volunteer projects.
-                     <br/><br/>
-                     Throughout my journey, I have faced many struggles and obstacles. I am not naturally good at the
-                     vast majority of things and there are many classes in which I have struggled in. However, I have
-                     always been able to put in the time and effort to solve a problem even if my peers did not have to.
-                     I am always motivated and determined to push through any problem. I am not above using the occassional
-                     brute force to solve a problem that needs to be solved. I always seek to solve every problem I'm given
-                     and try to excel at everything I do and apply myself.
+                <h4>I am currently a 3rd year student at Rensselaer Polytechnic Institute working towards
+                    a bachelor's of science in mathematics and computer science. I have strong interests in full stack
+                    development, data science, and software engineering and would love to explore those in depth.
                 </h4>
                 <h2 class = "title">Personal</h2>
-                <h4>I was born in a small town in central China. I spent the first four years of my life living
-                    with my grandparents as my parents were in Singapore finishing their degrees. At age 4, I left
-                    China to join my parents in Singapore. I would only spend around 4 years in Singapore but those
-                    4 years hold a special place in my heart. I remember the hot
-                     and humid summer days, the wet sand of the beaches, and visiting all the zoos, science centers,
-                     and night safaris. I remember having to rush
-                     to endless tutoring classes, being locked in a dark closet 
-                    by a teacher as discipline for my misbehavior, and having my hands slapped with a ruler by my parents
-                    for not recognizing that the golden arches of McDonald's were the letter 'M'. Ultimately I had to leave
-                    Singapore when I was 8 to go to America but I hope I will revisit it one day.
-                    <br/><br/>
-                    Coming to America was a major culture shock from my childhood in the east. I had to relearn English
-                    to rid myself of the heavily accented Singaporean English. I had to adapt to the cold climate of the
-                    American northeast. As I was very young, I was a quick adapter. I was Americanized very quickly,
-                    picking up American mannerisms, American cuisine, and American culture. I would eventually be
-                    naturalized as a US citizen in 2019.
-                    <br/><br/>
-                    Though I was never the athletic type, I eventually went
-                    to pick up tennis where I made it to the varsity team. I also enjoyed skiing as well as badminton
-                    whenever I visited China during the summers. I suffered a bad knee injury and haven't been able to
-                    play sports but I have gotten surgery and once the coronavirus blows over, I hope to play 
-                    either badminton or casual tennis. Beyond sports, I also like to code and listen to music in my free time. My
-                    favorite types of music are City Pop, Kayōkyoku, and enka. My favorite TV shows are Breaking Bad and Better
-                    Call Saul and my favorite movie is Parasite.
+                <h4>Over the past year, the coronavirus has disrupted a lot of the activities I like, but once it is over, I hope to
+                    be able to play club tennis and/or badminton. Beyond sports, I also like to code side projects and listen to music in my free time. My
+                    favorite types of music are City Pop, kayōkyoku, and enka. My favorite TV shows are Breaking Bad and Better
+                    Call Saul and my favorite movie is Parasite. I also enjoy playing video games, primarily grand strategy games such
+                    as Europa Universalis IV and Hearts of Iron IV.
                 </h4>
                 <br/>
             </div>
