@@ -1,4 +1,3 @@
-# Suhan Gui's Personal Website
+# Hello
 
-[Website](https://sueyguey.github.io/SueyGuey/).
-If there are any bugs or issues, please email me at suhangui6@gmail.com.
+I am suhan!
